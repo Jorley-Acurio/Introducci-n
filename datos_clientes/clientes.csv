@@ -1,1 +1,10 @@
+ID_Cliente,Nombre,Apellido,Email,Teléfono,Edad,Género,Ciudad,Fecha_Registro
+C001,Javier,López,javier.lopez@example.com,+593987654321,32,M,Quito,2024-11-15
+C002,Mariana,Castro,mariana.castro@example.com,+593912345678,27,F,Guayaquil,2024-12-02
+C003,Carlos,Pérez,carlos.perez@example.com,+593998812233,41,M,Cuenca,2025-01-05
+C004,Sofía,Ramírez,sofia.ramirez@example.com,+593965432187,29,F,Quito,2025-01-06
+C005,Diego,Morales,diego.morales@example.com,+593934567890,36,M,Ambato,2025-01-06
+C006,Ana,Guerrero,ana.guerrero@example.com,+593976543210,22,F,Loja,2025-01-07
+C007,Andrés,Mendoza,andres.mendoza@example.com,+593945612378,45,M,Guayaquil,2025-01-08
+C008,Paula,Villalba,paula.villalba@example.com,+593912398745,30,F,Cuenca,2025-01-08
 
