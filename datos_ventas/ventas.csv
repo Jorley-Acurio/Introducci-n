@@ -1,1 +1,10 @@
+Fecha,ID_Venta,Producto,Categoría,Cantidad,Precio_Unitario,Total_Venta,Vendedor,Sucursal
+2025-01-05,1001,Auriculares Bluetooth,Electrónica,2,25.50,51.00,María Pérez,Quito
+2025-01-05,1002,Mouse Inalámbrico,Electrónica,1,15.00,15.00,Carlos García,Guayaquil
+2025-01-06,1003,Café Premium 500g,Alimentos,3,8.75,26.25,Sofía Morales,Quito
+2025-01-06,1004,Teclado Mecánico,Electrónica,1,42.00,42.00,María Pérez,Cuenca
+2025-01-07,1005,Cuaderno A5,Papelería,5,2.50,12.50,Carlos García,Guayaquil
+2025-01-07,1006,Botella de Agua 1L,Bebidas,10,1.00,10.00,Sofía Morales,Quito
+2025-01-08,1007,Laptop 14'',Electrónica,1,650.00,650.00,María Pérez,Cuenca
+2025-01-08,1008,Chocolate 90g,Alimentos,6,1.20,7.20,Carlos García,Quito
 
